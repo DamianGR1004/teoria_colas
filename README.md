@@ -19,3 +19,6 @@ M — Tiempo de servicio aleatorio (distribución exponencial)
 Métricas calculadas
 MétricaSignificado simpleρ = λ/μQué tan ocupado está el sistema (0 = vacío, 1 = colapso)WqCuánto espera un pasajero típico en la filaLqCuántas personas hay formadas en promedioP(W > t)Probabilidad de esperar más de t minutos
 
+Autor
+Damian González
+Ciencia de Datos | Investigación de Operaciones
